@@ -1,0 +1,5 @@
+package com.tedu.sp09.service;
+
+public class OrderFeignService2 {
+
+}

@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "ribbon.OkToRetryOnAllOperations",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.OkToRetryOnAllOperations'"
+  },
+  {
+    "name": "ribbon.MaxAutoRetries",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.MaxAutoRetries'"
+  },
+  {
+    "name": "ribbon.MaxAutoRetriesNextServer",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.MaxAutoRetriesNextServer'"
+  }
+]}
