@@ -4,4 +4,6 @@
 <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
 <fullyQualifiedTypeName name="javax.annotation.ManagedBean"/>
 <fullyQualifiedTypeName name="org.mapstruct.Mapper"/>
+<fullyQualifiedTypeName name="com.tedu.sp04.order.feignclient.ItemFeignServiceFB"/>
+<fullyQualifiedTypeName name="com.tedu.sp04.order.feignclient.UserFeignServiceFB"/>
 </qualifiedTypeNameHistroy>

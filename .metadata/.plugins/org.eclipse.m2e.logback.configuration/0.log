@@ -10740,3 +10740,170 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2019-06-27 17:20:57,235 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-06-27 17:20:57,236 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-27 17:20:57,237 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp05-eureka\src\test\resources
+2019-06-27 20:42:30,233 [Worker-157: Launching sp02-itemservice-8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:42:30,978 [Worker-157: Launching sp02-itemservice-8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:42:31,133 [Worker-157: Launching sp02-itemservice-8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:42:33,310 [Worker-155: Launching sp02-itemservice-8002] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:42:33,416 [Worker-155: Launching sp02-itemservice-8002] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:42:59,304 [Worker-133: Launching sp03-userservice - Sp02UserserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:43:00,072 [Worker-133: Launching sp03-userservice - Sp02UserserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:43:00,473 [Worker-133: Launching sp03-userservice - Sp02UserserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:43:37,710 [Worker-155: Launching sp04-orderservice-8202] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:43:39,590 [Worker-155: Launching sp04-orderservice-8202] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:43:39,680 [Worker-155: Launching sp04-orderservice-8202] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:44:09,757 [Worker-161: Launching sp04-orderservice-8201] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:44:09,802 [Worker-161: Launching sp04-orderservice-8201] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:45:04,348 [Worker-166: Launching sp06-ribbon - Sp06RibbonApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:45:05,548 [Worker-166: Launching sp06-ribbon - Sp06RibbonApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:45:05,619 [Worker-166: Launching sp06-ribbon - Sp06RibbonApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:45:08,840 [Worker-134: Launching sp07-hystrix - Sp06RibbonApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:45:08,994 [Worker-134: Launching sp07-hystrix - Sp06RibbonApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:45:09,159 [Worker-134: Launching sp07-hystrix - Sp06RibbonApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:46:27,913 [Worker-171: Launching sp09-feign - Sp09FeignApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:46:27,973 [Worker-171: Launching sp09-feign - Sp09FeignApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:46:28,022 [Worker-171: Launching sp09-feign - Sp09FeignApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:47:59,742 [Worker-170: Launching sp11-zuul - Sp11ZuulApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-27 20:47:59,806 [Worker-170: Launching sp11-zuul - Sp11ZuulApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-27 20:47:59,844 [Worker-170: Launching sp11-zuul - Sp11ZuulApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier null to /sp01-commons/target/classes
+2019-06-28 08:50:36,079 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-28 08:51:46,759 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:51:46,809 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-06-28 08:51:46,922 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:51:46,925 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:51:46,925 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp05-eureka\src\test\resources
+2019-06-28 08:51:49,867 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-28 08:51:59,399 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tedu:sp10-turbine:0.0.1-SNAPSHOT @ D:\CGB1902-springclound\sp10-turbine\pom.xml.
+2019-06-28 08:52:00,703 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tedu:sp11-zuul:0.0.1-SNAPSHOT @ D:\CGB1902-springclound\sp11-zuul\pom.xml.
+2019-06-28 08:52:02,140 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-28 08:52:02,430 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tedu:sp12-config:0.0.1-SNAPSHOT @ D:\CGB1902-springclound\sp12-config\pom.xml.
+2019-06-28 08:52:06,279 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp10-turbine/src/main/java
+2019-06-28 08:52:06,281 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp10-turbine/src/main/resources
+2019-06-28 08:52:06,281 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp10-turbine/src/main/resources
+2019-06-28 08:52:06,282 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp10-turbine/src/test/java
+2019-06-28 08:52:06,900 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp11-zuul/src/main/java
+2019-06-28 08:52:06,901 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp11-zuul/src/main/resources
+2019-06-28 08:52:06,901 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp11-zuul/src/main/resources
+2019-06-28 08:52:06,902 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp11-zuul/src/test/java
+2019-06-28 08:52:07,998 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp12-config/src/main/java
+2019-06-28 08:52:07,999 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp12-config/src/main/resources
+2019-06-28 08:52:07,999 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp12-config/src/main/resources
+2019-06-28 08:52:08,000 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp12-config/src/test/java
+2019-06-28 08:52:08,878 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2019-06-28 08:52:10,828 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:10,829 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-28 08:52:10,835 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-28 08:52:10,847 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:10,847 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp10-turbine\src\test\resources
+2019-06-28 08:52:14,389 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-28 08:52:14,398 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:14,399 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-28 08:52:14,406 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-28 08:52:14,414 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:14,414 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp11-zuul\src\test\resources
+2019-06-28 08:52:15,564 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:15,564 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-28 08:52:15,572 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:52:15,573 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:15,574 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:52:47,693 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:47,698 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:52:47,698 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:52:47,705 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:52:47,705 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:53:23,324 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:53:23,324 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:53:23,324 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:53:23,326 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:53:23,326 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:53:38,330 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:53:38,330 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:53:38,331 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:53:38,333 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:53:38,333 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:53:58,431 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:53:58,432 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:53:58,432 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:53:58,437 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:53:58,438 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:54:21,340 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:21,340 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:21,340 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:21,342 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:21,343 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:54:32,569 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:32,570 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:32,570 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:32,571 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:32,571 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:54:36,844 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:36,844 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:36,844 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:36,846 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:36,846 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:54:40,747 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:40,747 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:40,747 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:54:40,749 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:54:40,749 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:02,143 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:02,143 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:02,144 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:02,146 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:02,146 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:09,431 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:09,432 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:09,432 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:09,435 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:09,436 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:12,317 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:12,317 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:12,317 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:12,319 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:12,319 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:13,425 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:13,425 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:13,426 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:13,429 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:13,430 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:29,110 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:29,110 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:29,110 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:29,112 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:29,112 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:37,217 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:37,217 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:37,217 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:37,219 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:37,219 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 08:55:41,505 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:41,506 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:41,506 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 08:55:41,507 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 08:55:41,507 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 09:57:34,398 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,399 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,399 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,401 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,401 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp05-eureka\src\test\resources
+2019-06-28 09:57:34,432 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,432 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,432 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,433 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,433 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp10-turbine\src\test\resources
+2019-06-28 09:57:34,444 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,445 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,445 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,447 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,447 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp11-zuul\src\test\resources
+2019-06-28 09:57:34,460 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,460 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,461 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 09:57:34,463 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 09:57:34,463 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources
+2019-06-28 09:57:54,582 [Worker-23: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-28 09:58:02,867 [Worker-28: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/sp01-commons: com.tedu:sp01-commons:0.0.1-SNAPSHOT with classifier  to /sp01-commons/target/classes
+2019-06-28 10:00:03,202 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 10:00:03,202 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 10:00:03,203 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 10:00:03,204 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-28 10:00:03,204 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CGB1902-springclound\sp12-config\src\test\resources

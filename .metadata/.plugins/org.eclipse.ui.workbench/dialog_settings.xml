@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="workingset_selection_history">
-		<item value="wl"/>
 		<item value="sp"/>
+		<item value="wl"/>
 	</list>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="849" key="DIALOG_X_ORIGIN"/>
-		<item value="113" key="DIALOG_Y_ORIGIN"/>
+		<item value="108" key="DIALOG_X_ORIGIN"/>
+		<item value="118" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="-1" key="dialogHeight"/>
